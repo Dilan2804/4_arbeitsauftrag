@@ -1,0 +1,6 @@
+C:\Users\dilan\Documents\dilan\2Klasse\APR\corona\4_arbeitsauftrag\4_arbeitsauftrag\obj\Debug\4_arbeitsauftrag.csprojAssemblyReference.cache
+C:\Users\dilan\Documents\dilan\2Klasse\APR\corona\4_arbeitsauftrag\4_arbeitsauftrag\bin\Debug\4_arbeitsauftrag.exe.config
+C:\Users\dilan\Documents\dilan\2Klasse\APR\corona\4_arbeitsauftrag\4_arbeitsauftrag\bin\Debug\4_arbeitsauftrag.exe
+C:\Users\dilan\Documents\dilan\2Klasse\APR\corona\4_arbeitsauftrag\4_arbeitsauftrag\bin\Debug\4_arbeitsauftrag.pdb
+C:\Users\dilan\Documents\dilan\2Klasse\APR\corona\4_arbeitsauftrag\4_arbeitsauftrag\obj\Debug\4_arbeitsauftrag.exe
+C:\Users\dilan\Documents\dilan\2Klasse\APR\corona\4_arbeitsauftrag\4_arbeitsauftrag\obj\Debug\4_arbeitsauftrag.pdb
